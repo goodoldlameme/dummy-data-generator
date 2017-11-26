@@ -1,0 +1,9 @@
+﻿{"generate_fictitious_data": "Returns the generator consisting of objects of class FictousData, takes the number of repetitions, the average value of the age, if it needs to be generated, the type of generated data in a string format separated by commas, returns the generated data", 
+"name": "Returns a random name", 
+"lastname": "Returns a random last name", 
+"age": "Returns a random age, with an average generation value as a parameter", 
+"phonenumber": "Returns a random phone number", 
+"email": "Returns a random email", 
+"country": "Returns a random country", 
+"city": "Returns a random city depending on the country", 
+"generate_multiple": "Returns the generator, takes the number of repetitions and functions"}
